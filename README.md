@@ -144,7 +144,7 @@ tests/                     Offline end-to-end tests
 
 ## Team
 
-Built by [Jacob Posner](https://www.linkedin.com/in/YOUR-LINKEDIN) with TEAMMATE NAMES as a group project for MSBA Analytics for Unstructured Data, taught by Dr. Anitesh Barua.
+Built by Jacob Posner, James Rainey, Logan Crider, Rohan Rali, Yashas Varma and Manas Ayyalaraju as a group project for MSBA Analytics for Unstructured Data, taught by Dr. Anitesh Barua.
 
 ## Limitations and next steps
 
