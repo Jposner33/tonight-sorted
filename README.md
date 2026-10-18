@@ -1,6 +1,6 @@
 # Tonight, Sorted: an adaptive agentic activity recommender
 
-**[Try the live demo →](https://YOUR-APP-NAME.streamlit.app)**
+**[Try the live demo →](https://tonight-sorted.streamlit.app)**
 
 Describe a plan in plain English, like *"four of us want something fun and social tonight, not too expensive"*, and the app returns three real, nearby places with an explanation of why each one fits.
 
@@ -55,8 +55,8 @@ The original city-and-catalog pipeline from the course notebook is kept in `reco
 ## Run it locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/activity-recommender.git
-cd activity-recommender
+git clone https://github.com/Jposner33/tonight-sorted.git
+cd tonight-sorted
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
