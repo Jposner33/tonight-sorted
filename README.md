@@ -1,6 +1,6 @@
 # Tonight, Sorted: an adaptive agentic activity recommender
 
-**[Try the live demo →](https://tonight-sorted.streamlit.app)**
+**[Try the live demo →](https://tonight-sorted-recommender.streamlit.app/)**
 
 Describe a plan in plain English, like *"four of us want something fun and social tonight, not too expensive"*, and the app returns three real, nearby places with an explanation of why each one fits.
 
